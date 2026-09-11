@@ -10,7 +10,7 @@ I'm a 3rd-year B.Tech Computer Science student at **Vishwakarma University** wit
 - 📜 **Global Certifications:** Cisco CCNA & EC-Council CEH 
 - 🌱 **Currently Learning:** SIEM fundamentals, log analysis, and cloud security architecture.
 - 🎯 **Goals:** To land a SOC Analyst role and continue building hands-on security home labs.
-- 📫 **Reach me at:** [Add your LinkedIn URL here] | [Add your Email here]
+- 📫 **Reach me at:(https://www.linkedin.com/in/sai-daswadkar-821960352/) | Saidaswadka@gmail.com
 
 ---
 
@@ -32,11 +32,6 @@ Here is what I've been working on recently. I am currently transitioning to buil
 * **[StudyBuddy AI College Assistant](https://github.com/sai-707/studybuddy-ai-college-assistant)** 
   An AI-powered web application built with Python, Streamlit, and the Gemini API to assist college students with their studies.
   
-* **[Coming Soon] SOC Home Lab** 
-  *(Placeholder for when you set up your first SIEM, Wazuh, or Splunk lab!)*
-
-* **[Coming Soon] Python Network Tool**
-  *(Placeholder for future custom scripts, like a port scanner or log parser)*
 
 ---
 
