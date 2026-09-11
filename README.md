@@ -1,64 +1,47 @@
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=500&size=24&pause=1000&color=00FF00&center=true&vCenter=true&width=600&lines=Cybersecurity+Enthusiast;Aspiring+SOC+L1+Analyst;Cloud+Security+%26+Network+Defender;B.Tech+CSE+Undergrad" alt="Typing SVG" />
-</div>
+# Hi there, I'm Sai! 👋
 
-<br/>
+### 🛡️ Aspiring Cybersecurity Professional | SOC L1 Analyst
 
-### 🕵️‍♂️ `whoami`
+I'm a 3rd-year B.Tech Computer Science student at **Vishwakarma University** with a strong passion for information security, cloud architecture, and network defense. I am actively building my portfolio to step into a **SOC L1 Analyst** role and pursue a long-term career in Cybersecurity and Cloud Security.
 
-I am a 3rd-year B.Tech CSE student at **Vishwakarma University**, wildly passionate about defending the digital frontier. With a solid foundation in networking and ethical hacking, I am actively preparing to step into a **SOC L1 Analyst** role while building specialized expertise in **Cybersecurity and Cloud Security**. 
+## 🚀 About Me
 
-When I'm not studying, you can find me analyzing packet captures, automating security workflows with Python, spinning up cloud implementations, or tackling Capture The Flag (CTF) challenges.
+- 🎓 **Education:** 3rd Year B.Tech in CSE at Vishwakarma University
+- 📜 **Global Certifications:** Cisco CCNA & EC-Council CEH 
+- 🌱 **Currently Learning:** SIEM fundamentals, log analysis, and cloud security architecture.
+- 🎯 **Goals:** To land a SOC Analyst role and continue building hands-on security home labs.
+- 📫 **Reach me at:** [Add your LinkedIn URL here] | [Add your Email here]
 
-<br/>
+---
 
-### 🏆 `cat /etc/certifications`
+## 🛠️ Skills & Technologies
 
-<p align="left">
-  <img src="https://img.shields.io/badge/Certified%20Ethical%20Hacker-(CEH)-red?style=for-the-badge&logo=eccouncil&logoColor=white" />
-  <img src="https://img.shields.io/badge/Cisco-CCNA-049fd9?style=for-the-badge&logo=cisco&logoColor=white" />
-</p>
+I am constantly learning and adding to my toolkit. Here is what I am currently working with:
 
-### 🛠️ Defense Arsenal 
+* **Networking & Security:** Network Troubleshooting, Packet Analysis, Vulnerability Scanning
+* **Programming & Scripting:** Python, Bash
+* **Tools & Platforms:** Linux, Git/GitHub, AWS (Learning), Windows Server
+* **Libraries/Frameworks:** Streamlit, Gemini API
 
-**Security Operations & Analysis 🛡️**
-<p align="left">
-  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" />
-  <img src="https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk&logoColor=white" />
-  <img src="https://img.shields.io/badge/Nmap-2B2D31?style=for-the-badge&logo=linux&logoColor=white" /> 
-  <img src="https://img.shields.io/badge/Burp_Suite-FF6600?style=for-the-badge&logo=wechat&logoColor=white" />
-</p>
+---
 
-**Network & Cloud Infrastructure ☁️**
-<p align="left">
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Active_Directory-0078D6?style=for-the-badge&logo=microsoft&logoColor=white" />
-</p>
+## 💻 Featured Projects
 
-**Development & Automation 💻**
-<p align="left">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" />
-  <img src="https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white" />
-</p>
+Here is what I've been working on recently. I am currently transitioning to building more security-focused projects!
 
-<br/>
+* **[StudyBuddy AI College Assistant](https://github.com/sai-707/studybuddy-ai-college-assistant)** 
+  An AI-powered web application built with Python, Streamlit, and the Gemini API to assist college students with their studies.
+  
+* **[Coming Soon] SOC Home Lab** 
+  *(Placeholder for when you set up your first SIEM, Wazuh, or Splunk lab!)*
 
-### 📡 GitHub Operations
+* **[Coming Soon] Python Network Tool**
+  *(Placeholder for future custom scripts, like a port scanner or log parser)*
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sai-707&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sai-707&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" />
-</div>
+---
 
-<br/>
-
-### 📞 `netcat -lvnp 4444` (Connect)
+## 📊 GitHub Stats
 
 <p align="left">
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN_USERNAME"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="mailto:YOUR_EMAIL"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-  <a href="https://tryhackme.com/p/YOUR_THM_USERNAME"><img src="https://img.shields.io/badge/TryHackMe-111928?style=for-the-badge&logo=tryhackme&logoColor=white" alt="TryHackMe"/></a>
+  <img src="https://github-readme-stats.vercel.app/api?username=sai-707&show_icons=true&theme=transparent&hide_border=true" alt="Sai's GitHub Stats" />
 </p>
